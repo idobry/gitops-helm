@@ -3,7 +3,7 @@
 replicaCount: 1
 backend: http://backend-podinfo:9898/echo
 
-image: idobry/podinfo:dev-6QgEH6F
+image: idobry/podinfo:dev-6QgEH6Fcvcv
 imagePullPolicy: IfNotPresent
 
 service:
